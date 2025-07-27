@@ -1,0 +1,8 @@
+# Default ignored files
+/../../HangmanGame /.idea/shelf/
+/../../HangmanGame /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../HangmanGame /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../HangmanGame /.idea/dataSources/
+/../../HangmanGame /.idea/dataSources.local.xml
